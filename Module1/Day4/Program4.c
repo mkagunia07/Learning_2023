@@ -21,6 +21,5 @@ int main(){
 
     printf("Difference = %d", abs(even - odd));
 
-
     return 0;
 }
